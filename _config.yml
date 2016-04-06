@@ -1,0 +1,28 @@
+name: RareWeather
+favicon: null
+layout_spectrum: 0.5755173342768103
+typography_spectrum: 0.6374314669519663
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8527368709910661
+  lightness: 0.756056027719751
+  saturation: 0.6805241161491722
+  rhythmicContrast: 0.8298862960655242
+purpose: []
